@@ -22,7 +22,6 @@ public class RecipeServise {
 
 	@Autowired
 	private RecipeRepository recipeRepository;
-
 	@Autowired
 	private RecipeCommandToRecipe recipeCommandToRecipe;
 	@Autowired
